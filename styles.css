@@ -1,0 +1,23 @@
+  body{
+    background-image: url('https://acegif.com/wp-content/uploads/gifs/starfall-gif-46.gif');
+    background-size: cover;
+
+
+
+    height: 100%;
+    padding:0;
+    margin:0;
+  }
+
+
+
+p{
+    color:cyan;
+    font-family: monospace;
+    font-size: 15px;
+    opacity: 100%;
+}
+
+h3{
+    color: cyan;
+}
